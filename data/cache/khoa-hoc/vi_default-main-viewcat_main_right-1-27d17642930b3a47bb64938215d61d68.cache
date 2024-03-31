@@ -1,0 +1,114 @@
+<div class="news_column">
+    <div class="panel panel-default clearfix">
+        <div class="panel-heading">
+            
+            <ul class="list-inline sub-list-icon" style="margin: 0">
+                <li><h4><a title="Khóa học Java" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-java"><span>Khóa học Java</span></a></h4></li>
+                                <li class="hidden-xs"><h4><a class="dimgray" title="Lập trình Java cơ bản" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=lap-trinh-java-co-ban">Lập trình Java cơ bản</a></h4></li>
+                
+            </ul>
+        </div>
+        
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-24">
+                                        <a title="Java là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-java/java-la-gi-1.html" ><img src="/nukeViet/assets/khoa-hoc/2024_03/java-logo.png" alt="Java Logo" width="100" class="img-thumbnail pull-left imghome" /></a>
+                    
+                    <h3>
+                        <a title="Java là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-java/java-la-gi-1.html" >Java là gì</a>
+                                                <span class="icon_new"></span>
+                        
+                    </h3>
+                    <div class="text-muted">
+                        <ul class="list-unstyled list-inline">
+                            <li><em class="fa fa-clock-o">&nbsp;</em> 31/03/2024 18:41</li>
+                            <li><em class="fa fa-eye">&nbsp;</em> 1</li>
+                                                        <li><em class="fa fa-comment-o">&nbsp;</em> 0</li>
+                            
+                        </ul>
+                    </div>
+                    Tìm hiểu về ngôn ngữ lập trình Java
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+<div class="news_column">
+    <div class="panel panel-default clearfix">
+        <div class="panel-heading">
+            
+            <ul class="list-inline sub-list-icon" style="margin: 0">
+                <li><h4><a title="Khóa học Python" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-python"><span>Khóa học Python</span></a></h4></li>
+                                <li class="hidden-xs"><h4><a class="dimgray" title="Lập trình Python cơ bản" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=lap-trinh-python-co-ban">Lập trình Python cơ bản</a></h4></li>
+                
+            </ul>
+        </div>
+        
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-24">
+                                        <a title="Python là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-python/python-la-gi-3.html" ><img src="/nukeViet/assets/khoa-hoc/2024_03/python_programming_language-logo.wine_.png" alt="Python programming language Logo wine" width="100" class="img-thumbnail pull-left imghome" /></a>
+                    
+                    <h3>
+                        <a title="Python là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-python/python-la-gi-3.html" >Python là gì</a>
+                                                <span class="icon_new"></span>
+                        
+                    </h3>
+                    <div class="text-muted">
+                        <ul class="list-unstyled list-inline">
+                            <li><em class="fa fa-clock-o">&nbsp;</em> 31/03/2024 19:16</li>
+                            <li><em class="fa fa-eye">&nbsp;</em> 0</li>
+                                                        <li><em class="fa fa-comment-o">&nbsp;</em> 0</li>
+                            
+                        </ul>
+                    </div>
+                    Tìm hiểu vè ngôn ngữ lập trình Python
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+<div class="news_column">
+    <div class="panel panel-default clearfix">
+        <div class="panel-heading">
+            
+            <ul class="list-inline sub-list-icon" style="margin: 0">
+                <li><h4><a title="Khóa học C&#x23;" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-c"><span>Khóa học C&#x23;</span></a></h4></li>
+                                <li class="hidden-xs"><h4><a class="dimgray" title="Lập trình C&#x23; cơ bản" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=lap-trinh-ve-c-co-ban">Lập trình C&#x23; cơ bản</a></h4></li>
+                
+            </ul>
+        </div>
+        
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-24">
+                                        <a title="C&#x23; là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-c/c-la-gi-2.html" ><img src="/nukeViet/assets/khoa-hoc/2024_03/c-sharp.jpg" alt="C&#x23; là gì" width="100" class="img-thumbnail pull-left imghome" /></a>
+                    
+                    <h3>
+                        <a title="C&#x23; là gì" href="/nukeViet/index.php?language=vi&amp;nv=khoa-hoc&amp;op=khoa-hoc-c/c-la-gi-2.html" >C&#x23; là gì</a>
+                                                <span class="icon_new"></span>
+                        
+                    </h3>
+                    <div class="text-muted">
+                        <ul class="list-unstyled list-inline">
+                            <li><em class="fa fa-clock-o">&nbsp;</em> 31/03/2024 19:05</li>
+                            <li><em class="fa fa-eye">&nbsp;</em> 1</li>
+                                                        <li><em class="fa fa-comment-o">&nbsp;</em> 0</li>
+                            
+                        </ul>
+                    </div>
+                    Tìm hiểu về ngôn ngữ C#
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
